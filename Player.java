@@ -8,7 +8,7 @@ class Player {
     private String [] movements;
     private boolean isFinish = false;
     private Queue path = new Queue();
-    int step = 0;
+    private int step = 0;
 
 
     public Player(String name, NodeMap[][] mazeMap, String[] movements, int [] startCoordinate, int [] endCoordinate) {
