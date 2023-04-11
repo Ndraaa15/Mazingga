@@ -108,3 +108,96 @@ WINNER kaka 4 steps
 jeje 6 steps
 kiki 6 steps
 jojo failed to solve the maze:(
+
+
+
+------Output 5-------
+Rini
+[XX][00][00]
+[XX][02][01]
+[04][03][XX]
+Joko
+[XX][03][00]
+[XX][02][01]
+[05][04][XX]
+Abi
+[XX][03][02]
+[XX][04][01]
+[00][00][XX]
+Kurnia
+[XX][03][02]
+[XX][04][01]
+[00][00][XX]
+
+WINNER Rini 4 steps
+Joko 5 steps
+Abi failed to solve the maze:(
+Kurnia failed to solve the maze:(
+
+
+
+------Output 6-------
+Ambiyo
+[XX][XX][00][00]
+[01][02][03][04]
+[XX][00][00][05]
+[XX][XX][XX][06]
+Ambiya
+[XX][XX][00][00]
+[01][02][03][04]
+[XX][07][06][05]
+[XX][XX][XX][08]
+Ambiyu
+[XX][XX][04][05]
+[01][02][03][06]
+[XX][00][00][00]
+[XX][XX][XX][00]
+
+WINNER Ambiyo 6 steps
+Ambiya 8 steps
+Ambiyu failed to solve the maze:(
+
+
+
+------Output 7-------
+kaka
+[07][06][05][00][00][XX]
+[XX][XX][04][XX][XX][00]
+[XX][00][03][02][00][00]
+[00][00][XX][01][XX][00]
+[XX][00][00][XX][00][00]
+[XX][00][XX][00][XX][XX]
+jiji
+[12][11][10][00][00][XX]
+[XX][XX][09][XX][XX][00]
+[XX][04][03][02][00][00]
+[06][05][XX][01][XX][00]
+[XX][07][00][XX][00][00]
+[XX][08][XX][00][XX][XX]
+jojo
+[13][12][11][00][00][XX]
+[XX][XX][10][XX][XX][00]
+[XX][04][03][02][00][00]
+[06][05][XX][01][XX][00]
+[XX][07][08][XX][00][00]
+[XX][09][XX][00][XX][XX]
+jeje
+[15][14][11][12][13][XX]
+[XX][XX][10][XX][XX][05]
+[XX][00][09][02][03][04]
+[00][00][XX][01][XX][06]
+[XX][00][00][XX][08][07]
+[XX][00][XX][00][XX][XX]
+kiki
+[21][20][17][18][19][XX]
+[XX][XX][16][XX][XX][05]
+[XX][10][09][02][03][04]
+[12][11][XX][01][XX][06]
+[XX][13][14][XX][08][07]
+[XX][15][XX][00][XX][XX]
+
+WINNER kaka 7 steps
+jiji 12 steps
+jojo 13 steps
+jeje 15 steps
+kiki 21 steps
