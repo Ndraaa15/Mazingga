@@ -1,0 +1,35 @@
+-----Input 1------
+3
+0,1 0,0 0,2 1,1 2,1
+2
+Anni UP LEFT RIGHT DOWN
+Gerald LEFT RIGHT UP DOWN
+Anni
+
+------Input 2------
+5
+3,1 1,0 3,0 1,1 2,1 4,1 0,2 1,2 4,2 0,3 2,3 4,3 0,4 1,4 3,4 3,3
+4
+Anni UP LEFT RIGHT DOWN
+Gerald LEFT RIGHT UP DOWN
+Fairy UP DOWN LEFT RIGHT
+Bucky DOWN RIGHT LEFT UP
+
+------Input 3------
+5
+2,1 0,2 0,3 1,0 1,1 1,2 1,4 2,2 2,3 2,4 3,0 3,2 4,0 4,1 4,3 4,4 3,4
+5
+jojo LEFT LEFT UP RIGHT DOWN
+jeje UP RIGHT DOWN RIGHT LEFT
+jiji LEFT DOWN UP UP LEFT
+kaka UP DOWN UP LEFT RIGHT
+kiki RIGHT LEFT UP DOWN LEFT
+
+------Input 4------
+4
+0,1 0,2 1,0 1,1 1,3 2,3 2,0 3,2 3,0 2,1
+4
+jojo LEFT UP DOWN UP
+jeje LEFT DOWN RIGHT UP
+kaka UP RIGHT LEFT DOWN
+kiki DOWN UP RIGHT UP
